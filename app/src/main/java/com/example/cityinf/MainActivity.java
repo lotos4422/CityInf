@@ -191,6 +191,6 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
             setCountryList();
         else filterList();
 
-        
+
     }
 }
