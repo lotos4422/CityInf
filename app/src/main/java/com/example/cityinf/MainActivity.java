@@ -190,6 +190,6 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
         if (search.getText().length() < 1)
             setCountryList();
         else filterList();
-        
+
     }
 }
