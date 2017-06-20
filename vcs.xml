@@ -48,7 +48,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\apps\demo" />
+    <option name="cloneParentDir" value="C:\apps" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\androidapps\MyApplication" />
